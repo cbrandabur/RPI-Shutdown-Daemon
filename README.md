@@ -7,7 +7,8 @@ This file is part of Casa-Automata http://casa-automata.com
 
 Requires WiringPI: https://projects.drogon.net/raspberry-pi/wiringpi/
 
-Modify the GPIO_IN define to change the pin number to the one you use. If not, by default it will use GPIO 21 (pin 40) on B+
+**Modify the GPIO_IN define to change the pin number to the one you use. 
+By default GPIO 21 is used (pin 40) on B+**
 
 To compile it on Raspberry Pi B+:
 ```
