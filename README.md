@@ -18,3 +18,6 @@ To start, stop or see the daemons status:
 ```
 ./shutdown_daemon start|stop|status
 ```
+
+B+ Schematic
+![Alt text](rpib+button.png?raw=true "Raspberry PI B+ shutdown button wiring diagram")
