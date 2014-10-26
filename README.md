@@ -24,3 +24,6 @@ To start, stop or see the daemons status:
 
 B+ Schematic
 ![Alt text](rpib+button.png?raw=true "Raspberry PI B+ shutdown button wiring diagram")
+
+The whole setup:
+![Alt text](rpi-shutdown.jpg?raw=true "Raspberry PI B+ rigged")
