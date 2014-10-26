@@ -20,5 +20,7 @@ To start, stop or see the daemons status:
 ./shutdown_daemon start|stop|status
 ```
 
+**Hold the button for at least a second for the Raspberry Pi to start shutting down**
+
 B+ Schematic
 ![Alt text](rpib+button.png?raw=true "Raspberry PI B+ shutdown button wiring diagram")
